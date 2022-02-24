@@ -2,7 +2,7 @@
 
 ## REJA:
   - [Basic](./basic)
-  - [Text](./text)
+  - [Texts](./texts)
   - [Links](./links)
   - [Images](./images)
   - [Tables](./tables)
